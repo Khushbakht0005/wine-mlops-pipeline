@@ -1,2 +1,2 @@
 # Training configuration
-N_FOLDS = 5
+N_FOLDS = 10
