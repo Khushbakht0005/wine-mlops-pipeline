@@ -6,3 +6,4 @@ __pycache__/
 *.pkl
 *.joblib
 *.pyc
+results.csv
